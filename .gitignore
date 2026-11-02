@@ -1,0 +1,19 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Kubernetes
+.kube/
+kubeconfig
+*.kubeconfig
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
